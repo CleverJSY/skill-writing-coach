@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Writing Coach"
+  short_description: "Design, draft, audit, and polish Codex skills."
+  default_prompt: "Use $skill-writing-coach to design a concise, robust Codex skill for my workflow."
