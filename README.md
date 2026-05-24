@@ -13,10 +13,10 @@ The skill acts as a practical skill architect. It helps decide whether a workflo
 
 ## Install
 
-Install with the Codex skill installer from this repository path:
+In Codex, ask to install the skill from this repository path:
 
-```powershell
-python scripts/install-skill-from-github.py --url https://github.com/Melancholy-A/skill-writing-coach/tree/main/skill-writing-coach
+```text
+Install the skill from https://github.com/Melancholy-A/skill-writing-coach/tree/main/skill-writing-coach
 ```
 
 Or copy the `skill-writing-coach/` directory into your Codex skills directory:
