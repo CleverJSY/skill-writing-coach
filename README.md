@@ -44,3 +44,5 @@ python skill-writing-coach/scripts/audit_skill.py path/to/target-skill
 ## License
 
 MIT
+
+I love you ❤
